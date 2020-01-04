@@ -293,12 +293,6 @@ Here we are able to see the information of our dataframe, with the top 30 rows a
 And, it also shows us the whole data frame has 205 rows and 26 columns in total.
 </p>
 
-<h1>Excellent! You have just completed the  Introduction  Notebook!</h1>
-
-<div class="alert alert-block alert-info" style="margin-top: 20px">
-
-    <p><a href="https://cocl.us/corsera_da0101en_notebook_bottom"><img src="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/Images/BottomAd.png" width="750" align="center"></a></p>
-</div>
 
 
 
